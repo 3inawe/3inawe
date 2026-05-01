@@ -4,7 +4,7 @@
 
 I am a Security & Forensics graduate from Higher Colleges of Technology and a current MSc Computer Science student at Mohamed bin Zayed University of Artificial Intelligence (MBZUAI). My focus is offensive security, web application security, penetration testing, practical vulnerability discovery, and applied AI for cybersecurity.
 
-I also work on AI-assisted cybersecurity projects, including attack detection, anti-DDoS analysis, and BXSS evaluation. My interests include digital forensics, Active Directory security, network security, WordPress/Joomla security, CVE research, exploit analysis, payload testing, malware analysis, reverse engineering, cryptography, incident response, threat hunting, and secure coding.
+I also work on AI-assisted cybersecurity projects, including attack detection, anti-DDoS analysis, and BXSS evaluation. My interests include digital forensics, Active Directory security, network security, WordPress/Joomla security, CVE research, zero-day research concepts, responsible disclosure, exploit analysis, payload testing, malware analysis, reverse engineering, cryptography, incident response, threat hunting, and secure coding.
 
 ---
 
@@ -38,9 +38,13 @@ I also work on AI-assisted cybersecurity projects, including attack detection, a
 - Web Application Security
 - Penetration Testing
 - Vulnerability Assessment
+- Attack Surface Analysis
 - Payload Testing
 - Exploit Analysis
 - CVE Research
+- Zero-Day Research Concepts
+- Responsible Disclosure
+- Patch Analysis
 - CTF Challenges
 - Secure Application Testing
 
@@ -135,7 +139,7 @@ AI-assisted browser XSS research project focused on evaluating payload behavior 
 **Focus areas:** candidate payload generation, mutation validation, callback monitoring, Playwright-based testing, repeatable evaluation contexts, and payload behavior comparison.
 
 ### Cybersecurity Labs Portfolio
-A structured repository for safe, authorized, and educational security notes covering web application security, Active Directory security, network security, WordPress/Joomla security, CVE research, exploit analysis, payload testing, incident response, digital forensics, malware analysis, reverse engineering, and AI-assisted attack detection.
+A structured repository for safe, authorized, and educational security notes covering web application security, Active Directory security, network security, WordPress/Joomla security, CVE research, zero-day research concepts, responsible disclosure, exploit analysis, payload testing, incident response, digital forensics, malware analysis, reverse engineering, and AI-assisted attack detection.
 
 ---
 
@@ -147,6 +151,10 @@ A structured repository for safe, authorized, and educational security notes cov
 - Active Directory Security
 - Network Security
 - CVE Research
+- Zero-Day Research Concepts
+- Responsible Disclosure
+- Vulnerability Intelligence
+- Patch Analysis
 - Exploit Analysis
 - Payload Testing
 - Incident Response
