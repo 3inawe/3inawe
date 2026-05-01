@@ -2,51 +2,76 @@
 
 **Junior Penetration Tester | Web Application Security | Offensive Security | MSc Computer Science Student at MBZUAI**
 
-I am a Security & Forensics graduate from Higher Colleges of Technology and a current MSc Computer Science student at Mohamed bin Zayed University of Artificial Intelligence (MBZUAI). My focus is offensive security, web application security, penetration testing, practical vulnerability discovery, and applied AI for cybersecurity.
+I am a Security & Forensics graduate from Higher Colleges of Technology and a current MSc Computer Science student at Mohamed bin Zayed University of Artificial Intelligence (MBZUAI). My focus is web application security, penetration testing, practical vulnerability discovery, and applied AI for cybersecurity.
 
-I also work on AI-assisted cybersecurity projects, including attack detection, anti-DDoS analysis, and BXSS evaluation. My interests include digital forensics, Active Directory security, network security, WordPress/Joomla security, CVE research, zero-day research concepts, responsible disclosure, exploit analysis, payload testing, malware analysis, reverse engineering, cryptography, incident response, threat hunting, and secure coding.
+I work on AI-assisted cybersecurity projects, including attack detection, anti-DDoS analysis, and BXSS evaluation. My interests include digital forensics, Active Directory security, network security, WordPress/Joomla security, CVE research, responsible disclosure, exploit analysis in lab environments, payload testing, malware analysis, reverse engineering, cryptography, incident response, threat hunting, secure coding, and security documentation.
 
 ---
 
 ## 🎯 Current Focus
 
 - Web Application Security
-- Penetration Testing
-- Offensive Security Labs
-- Browser XSS / BXSS Testing
 - API Security
-- Payload Testing
-- CVE Research
-- Exploit Analysis
-- AI-Assisted Attack Detection
+- Authentication & Access Control Review
+- Browser XSS / BXSS Testing
+- Penetration Testing Labs
+- Payload Testing in Authorized Labs
+- CVE Research & Vulnerability Intelligence
+- Responsible Disclosure Workflow
+- Exploit Analysis Concepts
+- Attack Surface Analysis
 - Active Directory Security
 - Network Security
 - WordPress / Joomla Security
+- Incident Response
 - Digital Forensics
 - Malware Analysis
 - Reverse Engineering
-- Incident Response
-- Threat Hunting
 - SIEM / Log Analysis
+- Threat Hunting
+- AI-Assisted Attack Detection
 - Secure Coding
+
+---
+
+## 🧪 Lab Portfolio
+
+I maintain a structured cybersecurity lab portfolio focused on safe, authorized, and educational security work.
+
+Main lab areas:
+- Web Application Security
+- API Security
+- Active Directory Security
+- Network Security
+- WordPress / Joomla Security
+- CVE Research
+- Responsible Disclosure
+- Exploit Analysis Concepts
+- Payload Testing
+- Incident Response
+- Digital Forensics
+- Malware Analysis
+- Reverse Engineering
+- SIEM / Log Analysis
+- Threat Hunting
+- Secure Coding
+- AI-Assisted Attack Detection
 
 ---
 
 ## 🛠️ Technical Skills
 
-### Offensive Security
+### Cybersecurity
 - Web Application Security
 - Penetration Testing
 - Vulnerability Assessment
-- Attack Surface Analysis
-- Payload Testing
-- Exploit Analysis
 - CVE Research
-- Zero-Day Research Concepts
-- Responsible Disclosure
-- Patch Analysis
+- Vulnerability Intelligence
+- Attack Surface Analysis
+- Responsible Disclosure Workflow
+- Exploit Analysis Concepts
+- Payload Testing in Authorized Labs
 - CTF Challenges
-- Secure Application Testing
 
 ### Web, API & CMS Security
 - Web Application Testing
@@ -54,9 +79,11 @@ I also work on AI-assisted cybersecurity projects, including attack detection, a
 - Authentication & Access Control Review
 - Input Validation Review
 - Session Management Review
+- SQL Injection Prevention
+- XSS / BXSS Testing
+- Secure File Upload Review
 - WordPress Security
 - Joomla Security
-- Security Checklist Development
 
 ### Infrastructure & Enterprise Security
 - Active Directory Security
@@ -69,14 +96,15 @@ I also work on AI-assisted cybersecurity projects, including attack detection, a
 - SIEM / Log Analysis
 - Threat Hunting
 
-### Digital Forensics, Malware & Reverse Engineering
+### Analysis & Research
 - Digital Forensics
 - Evidence Handling Concepts
-- Malware Analysis
-- Reverse Engineering
+- Malware Analysis Concepts
+- Reverse Engineering Concepts
 - Static Analysis Concepts
 - Dynamic Analysis Concepts
 - Indicators of Compromise
+- Security Report Writing
 
 ### AI & Computer Science
 - AI-Assisted Attack Detection
@@ -114,9 +142,7 @@ I also work on AI-assisted cybersecurity projects, including attack detection, a
 - NumPy
 
 ### Tools & Platforms
-- Linux (Ubuntu)
-- Kali Linux
-- Fedora Linux
+- Linux (Ubuntu, Kali, Fedora)
 - Windows Server
 - Cisco Packet Tracer
 - FTK Toolkit
@@ -131,40 +157,11 @@ I also work on AI-assisted cybersecurity projects, including attack detection, a
 ### AI-Assisted Attack Detection System — Capstone Project
 Academic cybersecurity project using LLM-assisted analysis to identify suspicious traffic patterns and support attack-detection concepts.
 
-**Focus areas:** suspicious traffic analysis, denial-of-service indicators, network-threat understanding, defensive response logic, and cyber resilience.
-
 ### BXSS AI Search & Mutation Evaluation Project
 AI-assisted browser XSS research project focused on evaluating payload behavior across browser and template-rendering contexts.
 
-**Focus areas:** candidate payload generation, mutation validation, callback monitoring, Playwright-based testing, repeatable evaluation contexts, and payload behavior comparison.
-
 ### Cybersecurity Labs Portfolio
-A structured repository for safe, authorized, and educational security notes covering web application security, Active Directory security, network security, WordPress/Joomla security, CVE research, zero-day research concepts, responsible disclosure, exploit analysis, payload testing, incident response, digital forensics, malware analysis, reverse engineering, and AI-assisted attack detection.
-
----
-
-## 🧭 Portfolio Areas
-
-- Web Application Security
-- API Security
-- WordPress / Joomla Security
-- Active Directory Security
-- Network Security
-- CVE Research
-- Zero-Day Research Concepts
-- Responsible Disclosure
-- Vulnerability Intelligence
-- Patch Analysis
-- Exploit Analysis
-- Payload Testing
-- Incident Response
-- Digital Forensics
-- Malware Analysis
-- Reverse Engineering
-- AI-Assisted Attack Detection
-- SIEM / Log Analysis
-- Threat Hunting
-- Secure Coding
+Structured lab portfolio for authorized security learning, checklists, notes, reports, and documentation across web security, AD security, network security, CMS security, incident response, forensics, malware analysis, reverse engineering, and AI-assisted attack detection.
 
 ---
 
@@ -175,16 +172,6 @@ A structured repository for safe, authorized, and educational security notes cov
 - First Place — Federal Authority for Identity, Citizenship & Port Security CTF Challenge
 - First Place — Higher Colleges of Technology Hackathon (2023)
 - Third Place — ADX Abu Dhabi Securities Exchange Hackathon (2024)
-
----
-
-## 📜 Certifications & Courses
-
-- Exterro ACE — Computer Forensics and Investigation
-- CCNAv7: Introduction to Networks
-- CIS 4603 Project Management
-- CIS 2303 System Analysis & Design
-- QRadar Training
 
 ---
 
@@ -213,4 +200,4 @@ Junior roles and internships in penetration testing, web application security, o
 
 ---
 
-> Building practical cybersecurity skills through labs, CTFs, academic projects, and applied security research.
+> Building practical cybersecurity skills through labs, CTFs, academic projects, and applied security research. Focused on authorized testing, responsible disclosure, and ethical security practice.
