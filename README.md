@@ -2,9 +2,9 @@
 
 **Junior Penetration Tester | Web Application Security | Offensive Security | MSc Computer Science Student at MBZUAI**
 
-I am a Security & Forensics graduate from Higher Colleges of Technology and a current MSc Computer Science student at Mohamed bin Zayed University of Artificial Intelligence (MBZUAI). My main focus is offensive security, web application security, penetration testing, and practical vulnerability discovery.
+I am a Security & Forensics graduate from Higher Colleges of Technology and a current MSc Computer Science student at Mohamed bin Zayed University of Artificial Intelligence (MBZUAI). My focus is offensive security, web application security, penetration testing, practical vulnerability discovery, and applied AI for cybersecurity.
 
-I also work on AI-assisted cybersecurity projects, including attack detection, anti-DDoS analysis, and BXSS evaluation. My interests include digital forensics, Active Directory security, malware analysis, reverse engineering, cryptography, and incident response.
+I also work on AI-assisted cybersecurity projects, including attack detection, anti-DDoS analysis, and BXSS evaluation. My interests include digital forensics, Active Directory security, network security, WordPress/Joomla security, CVE research, exploit analysis, payload testing, malware analysis, reverse engineering, cryptography, incident response, threat hunting, and secure coding.
 
 ---
 
@@ -14,29 +14,74 @@ I also work on AI-assisted cybersecurity projects, including attack detection, a
 - Penetration Testing
 - Offensive Security Labs
 - Browser XSS / BXSS Testing
+- API Security
+- Payload Testing
+- CVE Research
+- Exploit Analysis
 - AI-Assisted Attack Detection
-- Digital Forensics
 - Active Directory Security
+- Network Security
+- WordPress / Joomla Security
+- Digital Forensics
 - Malware Analysis
 - Reverse Engineering
 - Incident Response
+- Threat Hunting
+- SIEM / Log Analysis
+- Secure Coding
 
 ---
 
 ## 🛠️ Technical Skills
 
-### Cybersecurity
+### Offensive Security
 - Web Application Security
 - Penetration Testing
 - Vulnerability Assessment
+- Payload Testing
+- Exploit Analysis
+- CVE Research
 - CTF Challenges
-- Digital Forensics
-- Malware Analysis
-- Reverse Engineering
-- Cryptography
+- Secure Application Testing
+
+### Web, API & CMS Security
+- Web Application Testing
+- API Security Review
+- Authentication & Access Control Review
+- Input Validation Review
+- Session Management Review
+- WordPress Security
+- Joomla Security
+- Security Checklist Development
+
+### Infrastructure & Enterprise Security
+- Active Directory Security
+- Windows Security
+- Linux Security
+- Network Security
+- Firewall / Segmentation Concepts
 - Incident Response
 - Disaster Recovery
-- Active Directory
+- SIEM / Log Analysis
+- Threat Hunting
+
+### Digital Forensics, Malware & Reverse Engineering
+- Digital Forensics
+- Evidence Handling Concepts
+- Malware Analysis
+- Reverse Engineering
+- Static Analysis Concepts
+- Dynamic Analysis Concepts
+- Indicators of Compromise
+
+### AI & Computer Science
+- AI-Assisted Attack Detection
+- LLM-Assisted Security Analysis
+- Machine Learning Foundations
+- Data Analysis
+- Algorithms & Data Structures
+- Operating Systems
+- Secure Software Development
 
 ### Programming Languages
 - Python
@@ -82,23 +127,36 @@ I also work on AI-assisted cybersecurity projects, including attack detection, a
 ### AI-Assisted Attack Detection System — Capstone Project
 Academic cybersecurity project using LLM-assisted analysis to identify suspicious traffic patterns and support attack-detection concepts.
 
-**Focus areas:**
-- Suspicious traffic analysis
-- Denial-of-service indicators
-- Network-threat understanding
-- Defensive response logic
-- Cyber resilience
+**Focus areas:** suspicious traffic analysis, denial-of-service indicators, network-threat understanding, defensive response logic, and cyber resilience.
 
 ### BXSS AI Search & Mutation Evaluation Project
 AI-assisted browser XSS research project focused on evaluating payload behavior across browser and template-rendering contexts.
 
-**Focus areas:**
-- Candidate payload generation
-- Mutation validation
-- Callback monitoring
-- Playwright-based testing
-- Repeatable evaluation contexts
-- Payload behavior comparison
+**Focus areas:** candidate payload generation, mutation validation, callback monitoring, Playwright-based testing, repeatable evaluation contexts, and payload behavior comparison.
+
+### Cybersecurity Labs Portfolio
+A structured repository for safe, authorized, and educational security notes covering web application security, Active Directory security, network security, WordPress/Joomla security, CVE research, exploit analysis, payload testing, incident response, digital forensics, malware analysis, reverse engineering, and AI-assisted attack detection.
+
+---
+
+## 🧭 Portfolio Areas
+
+- Web Application Security
+- API Security
+- WordPress / Joomla Security
+- Active Directory Security
+- Network Security
+- CVE Research
+- Exploit Analysis
+- Payload Testing
+- Incident Response
+- Digital Forensics
+- Malware Analysis
+- Reverse Engineering
+- AI-Assisted Attack Detection
+- SIEM / Log Analysis
+- Threat Hunting
+- Secure Coding
 
 ---
 
@@ -143,14 +201,7 @@ August 2019 – December 2024 | CGPA: 3.36
 
 ## 🔎 Open To
 
-Junior roles and internships in:
-
-- Penetration Testing
-- Web Application Security
-- Offensive Security
-- Application Security
-- Cybersecurity Research
-- Digital Forensics
+Junior roles and internships in penetration testing, web application security, offensive security, application security, cybersecurity research, digital forensics, incident response, network security, and AI-assisted cybersecurity.
 
 ---
 
