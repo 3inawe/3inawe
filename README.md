@@ -1,10 +1,10 @@
 # Hi, I'm Hamad Khalifa Alyahyaee 👋
 
-**Junior Penetration Tester | Web Application Security | Offensive Security | MSc Computer Science Student**
+**Junior Penetration Tester | Web Application Security | Offensive Security | MSc Computer Science Student at MBZUAI**
 
-I am a Security & Forensics graduate from Higher Colleges of Technology and a current Master of Science in Computer Science student at MBZUAI. My main focus is offensive security, especially web application security, penetration testing, and practical vulnerability discovery.
+I am a Security & Forensics graduate from Higher Colleges of Technology and a current MSc Computer Science student at Mohamed bin Zayed University of Artificial Intelligence (MBZUAI). My main focus is offensive security, web application security, penetration testing, and practical vulnerability discovery.
 
-I also have strong interests in digital forensics, Active Directory security, malware analysis, reverse engineering, cryptography, and applied AI for cybersecurity.
+I also work on AI-assisted cybersecurity projects, including attack detection, anti-DDoS analysis, and BXSS evaluation. My interests include digital forensics, Active Directory security, malware analysis, reverse engineering, cryptography, and incident response.
 
 ---
 
@@ -14,74 +14,91 @@ I also have strong interests in digital forensics, Active Directory security, ma
 - Penetration Testing
 - Offensive Security Labs
 - Browser XSS / BXSS Testing
+- AI-Assisted Attack Detection
 - Digital Forensics
 - Active Directory Security
 - Malware Analysis
 - Reverse Engineering
-- Applied AI for Cybersecurity
+- Incident Response
 
 ---
 
 ## 🛠️ Technical Skills
 
-### Offensive Security
+### Cybersecurity
 - Web Application Security
 - Penetration Testing
 - Vulnerability Assessment
 - CTF Challenges
-- Browser XSS Testing
-- Secure Application Testing
-
-### Security Domains
 - Digital Forensics
 - Malware Analysis
 - Reverse Engineering
 - Cryptography
 - Incident Response
 - Disaster Recovery
-- Enterprise Network Security
+- Active Directory
 
-### Systems & Tools
+### Programming Languages
+- Python
+- C/C++
+- Java
+- PostgreSQL/SQL
+- JavaScript
+- HTML
+- CSS
+- PHP
+- Bash
+- PowerShell
+- C#
+- VB.NET
+
+### Frameworks & Libraries
+- PyTorch
+- TensorFlow
+- Flask
+- Django
+- Bootstrap
+- SQLAlchemy
+- Scikit-learn
+- Pandas
+- Matplotlib
+- NumPy
+
+### Tools & Platforms
+- Linux (Ubuntu)
 - Kali Linux
 - Fedora Linux
-- Windows Server Administration
-- Active Directory
+- Windows Server
 - Cisco Packet Tracer
 - FTK Toolkit
 - QRadar
 - Microsoft Project
-
-### Programming
-- Python
-- C++
-- C#
-- Java
-- PHP
-- VB.NET
+- Microsoft Office
 
 ---
 
 ## 🚀 Featured Projects
 
-### LLM-Based Anti-DDoS System — Capstone Project
-Academic capstone project focused on exploring LLM-assisted analysis for anti-DDoS detection and response concepts.
+### AI-Assisted Attack Detection System — Capstone Project
+Academic cybersecurity project using LLM-assisted analysis to identify suspicious traffic patterns and support attack-detection concepts.
 
 **Focus areas:**
 - Suspicious traffic analysis
+- Denial-of-service indicators
 - Network-threat understanding
-- Defensive design against denial-of-service attacks
-- Applied cybersecurity research
+- Defensive response logic
+- Cyber resilience
 
 ### BXSS AI Search & Mutation Evaluation Project
-AI-assisted browser XSS research project focused on testing payload behavior across different browser and template-rendering contexts.
+AI-assisted browser XSS research project focused on evaluating payload behavior across browser and template-rendering contexts.
 
 **Focus areas:**
-- Candidate payload evaluation
+- Candidate payload generation
 - Mutation validation
 - Callback monitoring
-- Playwright-based testing flow
+- Playwright-based testing
 - Repeatable evaluation contexts
-- Summary matrices for payload behavior comparison
+- Payload behavior comparison
 
 ---
 
@@ -99,19 +116,21 @@ AI-assisted browser XSS research project focused on testing payload behavior acr
 
 - Exterro ACE — Computer Forensics and Investigation
 - CCNAv7: Introduction to Networks
-
+- CIS 4603 Project Management
+- CIS 2303 System Analysis & Design
+- QRadar Training
 
 ---
 
 ## 🎓 Education
 
 **Mohamed bin Zayed University of Artificial Intelligence (MBZUAI)**  
-Master of Science in Computer Science  
-Expected: January 2027
+MSc Computer Science  
+August 2025 – May 2027
 
 **Higher Colleges of Technology — Al Ain, UAE**  
 Bachelor of Information Technology — Security & Forensics  
-Graduated: December 2024 | CGPA: 3.36
+August 2019 – December 2024 | CGPA: 3.36
 
 ---
 
@@ -119,7 +138,6 @@ Graduated: December 2024 | CGPA: 3.36
 
 - LinkedIn: [linkedin.com/in/hamad-alyahyaee](https://www.linkedin.com/in/hamad-alyahyaee/)
 - GitHub: [github.com/3inawe](https://github.com/3inawe)
-
 
 ---
 
